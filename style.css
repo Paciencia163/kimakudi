@@ -1,0 +1,9 @@
+.stButton>button {
+    height: 50px;
+    width: 180px;
+    border-radius: 10px;
+    background-color: #36a138;
+    color: white;
+    font-size: 20px;
+    font-weight: bold
+}

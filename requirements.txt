@@ -1,4 +1,5 @@
-streamlit==1.25.0  # Última versão disponível no momento
-pandas==1.5.3      # Para manipulação de dados
-numpy==1.23.5      # Dependência comum para pandas
-configparser==5.3.1  # Para evitar erros relacionados ao SafeConfigParser
+streamlit
+pandas
+numpy
+configparser  # Versão será automaticamente resolvida
+
